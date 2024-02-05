@@ -1,0 +1,7 @@
+以下内容均可作为参照
+
+https://github.com/applenob/Cpp_Primer_Practice/blob/master/excersize/ch02.md
+
+https://github.com/Mooophy/Cpp-Primer/tree/master
+
+https://github.com/huangmingchuan/Cpp_Primer_Answers/blob/master/ch02/exercise2_4.cpp
